@@ -17,7 +17,7 @@ A highly motivated junior Python developer with experience in building software 
 - Agile methodologies
 
 ### Projects
-- Project 1: A Telegram bot written in Python for remote monitoring and control of a Linux server, using ssh and some bash commands.
+- Project 1: A Telegram bot written in Python for remote monitoring and control of a Strongswan server, using ssh and some bash commands.
 - Project 2: A script written in Python to parsing news headlines from the official russian government newspaper "Rossiyskaya gazeta" website to further process and find trends in rhetoric as the destructive situation in which russia has fallen by starting an illegitimate war unfolds.
 - Project 3: A script written in Python to automatically convert the range of web addresses on the Russian segment of the Internet into a bat file format for set up routing in Windows to automate blocking circumvention.
 
